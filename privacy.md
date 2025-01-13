@@ -1,8 +1,4 @@
----
-title: 'Privacy Policy'
-layout: '~/layouts/MarkdownLayout.astro'
----
-
+# doodle.new Privacy Policy
 _Last updated_: November 28, 2024
 
 Nutpan Pty Ltd (ABN 35 165 720 258) (“JDoodle”, “we”, “us” and “our”) understands that your privacy is paramount, and are committed to protecting your privacy. Accordingly, we have developed this policy in order for you to understand how we collect, use, and disclose your personal information.

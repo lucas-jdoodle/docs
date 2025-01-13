@@ -1,1 +1,3 @@
 - [doodle.new docs](README)
+- [privacy policy](privacy)
+- [terms of use](terms)

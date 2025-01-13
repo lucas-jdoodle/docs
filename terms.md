@@ -1,7 +1,4 @@
----
-title: 'Terms and Conditions'
-layout: '~/layouts/MarkdownLayout.astro'
----
+# doodle.new Terms of Use
 
 **_Last updated_**: November 28, 2024
 
